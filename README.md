@@ -1,6 +1,6 @@
 # Four Rings
 
-**Bennett Rakower, Tracy Dang, Megha Thumma*
+**Bennett Rakower, Tracy Dang, Megha Thumma**
 
 ## System Architecture
 
