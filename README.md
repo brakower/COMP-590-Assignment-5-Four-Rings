@@ -22,9 +22,7 @@ There are four independent rings:
 - POS_EVEN
 - POS_ODD
 
-Each ring contains N nodes connected in a directed cycle.  
-A token moves from node to node for H hops, and each node applies a transformation to the value.
-Each ring processes only one token at a time, but the four rings can run concurrently.
+Each ring contains N nodes connected in a directed cycle. A token moves from node to node for H hops, and each node applies a transformation to the value. Each ring processes only one token at a time, but the four rings can run concurrently.
 
 ## Elixir Implementation
 
