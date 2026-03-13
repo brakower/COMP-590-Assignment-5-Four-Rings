@@ -1,6 +1,6 @@
 # Four Rings – Analysis
 
-**Bennett Rakower, Tracy Dang, Megha Thumma*
+**Bennett Rakower, Tracy Dang, Megha Thumma**
 
 ## Machine Used
 All experiments were run on the following machine:
